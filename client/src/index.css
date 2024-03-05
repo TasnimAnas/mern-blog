@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --primary-color: red;
+  --secondary-color: blue;
+  --primary-radius: 1rem;
+}
+
